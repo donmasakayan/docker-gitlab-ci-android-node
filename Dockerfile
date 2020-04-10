@@ -1,3 +1,4 @@
+# Base Image - https://github.com/jangrewe/gitlab-ci-android
 FROM jangrewe/gitlab-ci-android
 
 # Install python
